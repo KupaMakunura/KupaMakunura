@@ -19,6 +19,7 @@ Visit my personal website <a href="https://kupamakunura.co.zw">HERE</a>
 
 ### Frontend  
 <div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
   
 <img style="margin: 10px" src="https://logowik.com/content/uploads/images/nextjs7685.logowik.com.webp" alt="Next JS" height="50" />  
@@ -26,7 +27,7 @@ Visit my personal website <a href="https://kupamakunura.co.zw">HERE</a>
 <img style="margin: 10px" src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp" alt="Tailwind CSS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />   
+
 </div>
 
 </td><td valign="top" width="33%">
