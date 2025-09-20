@@ -3,7 +3,7 @@ Founder at <a href="https://runlyai.com" target="_blank">RunlyAI</a> 🚀
 Visit my personal website <a href="https://kupamakunura.co.zw">HERE</a>  
 
 
-## 🖥Backend  
+## Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo-500x313.png" alt="Django" height="50" />  
